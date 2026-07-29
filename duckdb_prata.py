@@ -4,8 +4,8 @@ import re
 import duckdb
 
 # Diretórios da estrutura Medallion
-diretorio_bronze = "/home/gustavor/Enem/Medalion/Bronze"
-diretorio_prata = "/home/gustavor/Enem/Medalion/Prata"
+diretorio_bronze = "insira o diretorio"
+diretorio_prata = "insira o diretorio"
 db_destino = os.path.join(diretorio_prata, "enem_para_prata.duckdb")
 tabela_destino = "microdados_enem_pa"
 
