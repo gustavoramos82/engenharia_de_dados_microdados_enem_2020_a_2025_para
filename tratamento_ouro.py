@@ -5,8 +5,8 @@ import pandas as pd
 import duckdb
 
 # 1. Definição dos diretórios da estrutura Medallion
-diretorio_prata = "/home/gustavor/Enem/Medalion/Prata"
-diretorio_ouro = "/home/gustavor/Enem/Medalion/Ouro"
+diretorio_prata = "insira o diretorio"
+diretorio_ouro = "insira o diretorio"
 
 os.makedirs(diretorio_ouro, exist_ok=True)
 
