@@ -3,11 +3,11 @@ import re
 import zipfile
 
 # 1. ESPECIFIQUE AQUI O DIRETÓRIO ONDE ESTÃO OS ARQUIVOS .ZIP
-diretorio_origem = r"/home/gustavor/Enem/2020-2025"
+diretorio_origem = r"insira o diretorio de origem"
 
 # Se desejar salvar a extração em outro lugar, altere diretorio_destino.
 # Por padrão, salvará na mesma pasta de origem.
-diretorio_destino = r"/home/gustavor/Enem/Medalion/Bronze" 
+diretorio_destino = r"insira o diretorio de destino" 
 
 print(f"Buscando arquivos ZIP em: {diretorio_origem}\n")
 
